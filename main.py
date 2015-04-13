@@ -19,8 +19,9 @@ class Search(Base):
 		# Create a regex that matches if any of the terms are present. Each term must be surronded by non letter characters.
 		pattern = '(\W('
 		for term in terms:
-			pattern += re.escape(term)
-			pattern += '|'
+			if term != '':
+				pattern += re.escape(term)
+				pattern += '|'
 		pattern = pattern[:-1]
 		pattern += ')\W)'
 
@@ -46,6 +47,7 @@ class Search(Base):
 			# Appends to result list
 			if matches == True:
 				results['comments'].append(i)
+
 		# Stop search timer
 		end_time = time.time()
 

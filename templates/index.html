@@ -45,13 +45,17 @@
 		media.holder.appendChild(media.body);
 		
 		var hr = document.createElement('hr');
+		var query_time = document.createElement('p');
 
 		// Loads data into display structure
 		var display_comments = function (data) {
-			var item, i;
+			var item, i, time;
 			while(output.firstChild) {
 				output.removeChild(output.firstChild);
 			};
+			time = data.time * 1000
+			query_time.textContent = 'Query in ' + time + ' ms';
+			output.appendChild(query_time);
 			for (i = 0; i < data.comments.length; i++) {
 				item = data.comments[i];
 				console.log(item)
