@@ -36,7 +36,6 @@
 		media.body = document.createElement('div');
 		media.body.classList.add('media-body');
 		media.heading = document.createElement('h4');
-		console.log(media.heading)
 		media.heading.classList.add('media-heading');
 		media.p = document.createElement('p');
 
@@ -45,19 +44,30 @@
 		media.holder.appendChild(media.body);
 		
 		var hr = document.createElement('hr');
-		var query_time = document.createElement('p');
+		var query_terms = document.createElement('p');
 		var empty = document.createElement('p');
 		empty.textContent = 'No results for your terms.';
 
 		// Loads data into display structure
 		var display_comments = function (data) {
 			var item, i, time;
+			// Clears output
 			while(output.firstChild) {
 				output.removeChild(output.firstChild);
 			};
+			// s -> ms
 			time = data.time * 1000
-			query_time.textContent = 'Query in ' + time + ' ms';
-			output.appendChild(query_time);
+			// Display query time from server and outputs searched terms
+			query_terms.textContent = 'Query in ' + time + ' ms for ';
+			for (i = 0; i < data.terms.length; i++) {
+				if (i != data.terms.length - 1) {
+					query_terms.textContent += data.terms[i] + ', ';
+				} else {
+					query_terms.textContent += data.terms[i]
+				}
+			}
+			output.appendChild(query_terms);
+			// Sets data and appends each comment
 			if (data.comments.length > 0) {
 				for (i = 0; i < data.comments.length; i++) {
 					item = data.comments[i];
@@ -78,18 +88,20 @@
 			e.preventDefault();
 			console.log('Submit triggered');
 			console.log('Search terms:', form.terms)
-			var req = $.ajax({
-				method: 'POST',
-				url: '/search',
-				data: JSON.stringify({
-					terms: form.terms.value
-				}),
-				dataType: 'json',
-				contentType: 'application/json; charset=UTF-8'
-			});
-			req.done(function (data) {
-				display_comments(data);
-			});
+			if (form.terms.value != '') {
+				var req = $.ajax({
+					method: 'POST',
+					url: '/search',
+					data: JSON.stringify({
+						terms: form.terms.value
+					}),
+					dataType: 'json',
+					contentType: 'application/json; charset=UTF-8'
+				});
+				req.done(function (data) {
+					display_comments(data);
+				});
+			}
 		});
 	</script>
 </body>

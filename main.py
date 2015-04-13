@@ -35,7 +35,8 @@ class Search(Base):
 		# Creates result dictionary
 		results = {
 			'comments': [],
-			'time': 0
+			'time': 0,
+			'terms': terms
 		}
 
 		# Start search timer
