@@ -1,6 +1,7 @@
 import webapp2
 from base import Base
 import json
+import time
 
 class Index(Base):
 	def get(self):
@@ -9,18 +10,30 @@ class Index(Base):
 class Search(Base):
 	def post(self):
 		payload = self.request.body
-		terms = json.loads(payload)
-		term = terms['terms']
+		pl_dict = json.loads(payload)
+		terms = pl_dict['terms'].split(',')
 
 		raw_data = open('data.json')
 		data = json.load(raw_data)
 		print data[0]
 
-		results = []
+		results = {
+			'comments': [],
+			'time': 0
+		}
 
+		start_time = time.time()
 		for i in data:
-			if term in i['text']:
-				results.append(i.text)
+			matches = True
+			for term in terms:
+				if term not in i['text']:
+					matches = False
+			if matches == True:
+				results['comments'].append(i['text'])
+
+		end_time = time.time()
+
+		results['time'] = end_time - start_time
 
 		self.json(200, results)
 
