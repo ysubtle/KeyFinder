@@ -28,6 +28,7 @@
 	</div>
 	<script type="text/javascript" src='//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 	<script>
+		// Sets ouput div and creates comment display structure
 		var output = document.querySelector('[data-display="output"]');
 		var media = {};
 		media.holder = document.createElement('div');
@@ -45,6 +46,7 @@
 		
 		var hr = document.createElement('hr');
 
+		// Loads data into display structure
 		var display_comments = function (data) {
 			var item, i;
 			while(output.firstChild) {
@@ -60,7 +62,7 @@
 			};
 		};
 
-
+		// Handles AJAX
 		var form = document.querySelector('[data-search="form"]');
 		form.addEventListener('submit', function (e) {
 			e.preventDefault();
