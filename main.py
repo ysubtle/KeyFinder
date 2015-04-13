@@ -25,6 +25,9 @@ class Search(Base):
 		pattern = pattern[:-1]
 		pattern += ')\W)'
 
+		# Compiles regex for better performance
+		re_prog = re.compile(pattern)
+
 		# Opens json store of comment data
 		raw_data = open('data.json')
 		data = json.load(raw_data)
@@ -42,7 +45,7 @@ class Search(Base):
 		for i in data:
 			matches = False
 			# If regex match, flag for match
-			if re.search(pattern, i['text'], re.I):
+			if re.search(re_prog, i['text'], re.I):
 				matches = True
 			# Appends to result list
 			if matches == True:
