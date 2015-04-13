@@ -14,8 +14,17 @@ class Search(Base):
 		payload = self.request.body
 		pl_dict = json.loads(payload)
 
+		# Checks for empty input
+		if pl_dict['terms'] == '':
+			return self.json(200, {
+				'comments': [],
+				'time': 0,
+				'terms': []
+			})
+
 		# Split the comma seperated terms
 		terms = pl_dict['terms'].split(',')
+
 		# Create a regex that matches if any of the terms are present. Each term must be surronded by non letter characters.
 		pattern = '(\W('
 		for term in terms:
