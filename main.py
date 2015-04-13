@@ -15,7 +15,7 @@ class Search(Base):
 		terms = pl_dict['terms'].split(',')
 		pattern = '(\W('
 		for term in terms:
-			pattern += term
+			pattern += re.escape(term)
 			pattern += '|'
 		pattern = pattern[:-1]
 		pattern += ')\W)'
