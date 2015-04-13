@@ -14,23 +14,21 @@ def update_comments():
 		p_select = c.xpath("p")
 		text = ''
 		for p in p_select:
-			if p.text:
-				text += p.text
+			if p.text_content():
+				text += p.text_content()
 				text += '\n '
 
 		parent = c.getparent()
-		# print dir(parent)
-		# print parent.getchildren()
 		a_select = parent[0]
 		a_p_select = a_select.xpath("cite")[0]
-		if a_p_select.text == None:
-			author = a_p_select[0].text
+		if a_p_select.text_content() == None:
+			author = a_p_select[0].text_content()
 		else:
-			author = a_p_select.text
+			author = a_p_select.text_content()
 
 		t_select = parent[2]
 		t_p_select = t_select[0]
-		time = t_p_select.text
+		time = t_p_select.text_content()
 
 		results.append({
 			'text': text,

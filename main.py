@@ -13,12 +13,14 @@ class Search(Base):
 		payload = self.request.body
 		pl_dict = json.loads(payload)
 		terms = pl_dict['terms'].split(',')
-		pattern = '('
+		pattern = '(\W('
 		for term in terms:
 			pattern += term
 			pattern += '|'
 		pattern = pattern[:-1]
-		pattern += ')'
+		pattern += ')\W)'
+
+		print "PATTERN",pattern
 
 		raw_data = open('data.json')
 		data = json.load(raw_data)

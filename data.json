@@ -21,12 +21,12 @@
     }, 
     {
         "author": "Jamie (Stryd)", 
-        "text": "When you run on a treadmill, you avoid many outdoor environmental effects, such as changes to surface conditions, wind, and elevation. Adapting to those effects can require changes in form and running power. \n In our tests with Stryd, and when going through the research literature, we found that the same pace can produce different effects on the body when running on a treadmill and outdoors. However, we didn't find any hard rule about the size of this difference that holds for different runners. \n The following studies give deeper insight on this topic if you are interested to learn more.\n Stryd may be able to help quantify how your own personal running power changes in different running environments to help you adjust your training plan accordingly. If you end up giving it a try in that application, we want to hear about your experiences:)\n ", 
+        "text": "When you run on a treadmill, you avoid many outdoor environmental effects, such as changes to surface conditions, wind, and elevation. Adapting to those effects can require changes in form and running power. \n In our tests with Stryd, and when going through the research literature, we found that the same pace can produce different effects on the body when running on a treadmill and outdoors. However, we didn't find any hard rule about the size of this difference that holds for different runners. \n The following studies give deeper insight on this topic if you are interested to learn more.\n link to ncbi.nlm.nih.gov\nlink to ncbi.nlm.nih.gov\nlink to ncbi.nlm.nih.gov\nlink to ncbi.nlm.nih.gov\n Stryd may be able to help quantify how your own personal running power changes in different running environments to help you adjust your training plan accordingly. If you end up giving it a try in that application, we want to hear about your experiences:)\n ", 
         "time": "\n\t\t\tJanuary 31, 2015 at 11:42 pm"
     }, 
     {
         "author": "Chris C.", 
-        "text": "Hi Jamie,\n Sounds great but it looks like app. half of the articles are not available for free.\n ", 
+        "text": "Hi Jamie,\n Sounds great but it looks like app. half of the articles are not available for free.\nAny way you could give us access to them?\n ", 
         "time": "\n\t\t\tFebruary 3, 2015 at 7:49 am"
     }, 
     {
@@ -66,7 +66,7 @@
     }, 
     {
         "author": "Robert Dick (Stryd)", 
-        "text": "We have a plan to properly account for the impact of changes in wind speed but we don't have solid testing results on this now.  We'll follow up here, and on our blog (\n ", 
+        "text": "We have a plan to properly account for the impact of changes in wind speed but we don't have solid testing results on this now.  We'll follow up here, and on our blog (http://blog.stryd.com), when we have more news on this.\n ", 
         "time": "\n\t\t\tJanuary 30, 2015 at 4:28 pm"
     }, 
     {
@@ -96,7 +96,7 @@
     }, 
     {
         "author": "Rodrigo Valle Teixeira", 
-        "text": "Hi Ray,\n So..... it seems that the same function could be done by the existing accelerometers on the latest Garmin HRM strap (the one with running dynamics). It would just be a matter of software on the strap and watch.\n Thanks!\n ", 
+        "text": "Hi Ray,\nIf I understand correctly, the hardware is one (or more) accelerometer, and the magic is all in software.\nGiven that you used it cliped to your shorts, the unit was basically static in relation to your core body.\n So..... it seems that the same function could be done by the existing accelerometers on the latest Garmin HRM strap (the one with running dynamics). It would just be a matter of software on the strap and watch.\nOr am I missing something?\n Thanks!\nRodrigo Valle\n ", 
         "time": "\n\t\t\tJanuary 30, 2015 at 11:26 am"
     }, 
     {
@@ -156,7 +156,7 @@
     }, 
     {
         "author": "DC Rainmaker", 
-        "text": "Funny, I hadn't tried it.  But oddly enough, it did import to GC:\n It doesn't show the map - but it doesn't on any of the services I use.  I think the .FIT file generation they used doesn't support the map at this time, which is fine.\n ", 
+        "text": "Funny, I hadn't tried it.  But oddly enough, it did import to GC:\n link to connect.garmin.com\n It doesn't show the map - but it doesn't on any of the services I use.  I think the .FIT file generation they used doesn't support the map at this time, which is fine.\n ", 
         "time": "\n\t\t\tJanuary 30, 2015 at 6:50 pm"
     }, 
     {
@@ -206,7 +206,7 @@
     }, 
     {
         "author": "peroni", 
-        "text": "For android there is an app available claiming to  measure power while running\n There is also one for cycling by the same developer.\n Storing the phone is a small waist pack should return similar results.\n ", 
+        "text": "For android there is an app available claiming to  measure power while running\nlink to goo.gl\n There is also one for cycling by the same developer.\n Storing the phone is a small waist pack should return similar results.\n ", 
         "time": "\n\t\t\tJanuary 31, 2015 at 9:30 am"
     }, 
     {
@@ -216,12 +216,12 @@
     }, 
     {
         "author": "Ken", 
-        "text": "I run with my Samsung GSIII in a Level Flip Belt.  No armband necessary. \n ", 
+        "text": "I run with my Samsung GSIII in a Level Flip Belt.  No armband necessary. link to flipbelt.com\n ", 
         "time": "\n\t\t\tFebruary 4, 2015 at 3:18 pm"
     }, 
     {
         "author": "zazo", 
-        "text": "I have a problem understanding this line of yours:\n \"Now if you look at the last two ups/downs you\u2019ll see the really interesting alignment there where power follows the hill profile almost perfectly (just like it would when cycling), whereas pace is inverted.\"\n Why would the power rise like the hill profile while pace is dropping. I could see that happening only if you would be accelerating. Or if the gradient would be increasing and your pace would remain the same.\n I think the \"hills\" you did were just to small to see where your climbing power would settle and there is too little data to show how this power meter behaves in climbing situations. If you don't look at time and meters climbed it just looks wrong to me. If I consider short time, that could explain there was not enough time for power to settle in.\n Maybe I'm missing something, but chart and your explanation just don't look right to me at the moment.\n ", 
+        "text": "I have a problem understanding this line of yours:\n \"Now if you look at the last two ups/downs you\u2019ll see the really interesting alignment there where power follows the hill profile almost perfectly (just like it would when cycling), whereas pace is inverted.\"\n Why would the power rise like the hill profile while pace is dropping. I could see that happening only if you would be accelerating. Or if the gradient would be increasing and your pace would remain the same.\nAnd i think its not common in cycling that power would increase with every meter climbed.\n I think the \"hills\" you did were just to small to see where your climbing power would settle and there is too little data to show how this power meter behaves in climbing situations. If you don't look at time and meters climbed it just looks wrong to me. If I consider short time, that could explain there was not enough time for power to settle in.\n Maybe I'm missing something, but chart and your explanation just don't look right to me at the moment.\n ", 
         "time": "\n\t\t\tJanuary 30, 2015 at 12:08 pm"
     }, 
     {
@@ -236,7 +236,7 @@
     }, 
     {
         "author": "morey000", 
-        "text": "want.   nay, need.\n Take my money!\n ", 
+        "text": "want.   nay, need.\nThe holy grail of run training- TSS!\n Take my money!\n ", 
         "time": "\n\t\t\tJanuary 30, 2015 at 12:18 pm"
     }, 
     {
@@ -251,12 +251,12 @@
     }, 
     {
         "author": "Grzeg1", 
-        "text": "Did you have a chance to test:\n Great review as always.\n ", 
+        "text": "Did you have a chance to test:\n- on a soft surface (sand)\n- pulling a trolley/bike\n- pushing someone in front of you?\nThese should show increase of power exerted.\n Great review as always.\n ", 
         "time": "\n\t\t\tJanuary 30, 2015 at 1:16 pm"
     }, 
     {
         "author": "Daniel", 
-        "text": "Exactly what i thought when I read the article. \n What about slippy/muddy ground ?\n ", 
+        "text": "Exactly what i thought when I read the article. \n What about slippy/muddy ground ?\nHow does it change when I am pulling something ?\nHow is the differences between carrying more or less weight ?\n ", 
         "time": "\n\t\t\tJanuary 30, 2015 at 1:43 pm"
     }, 
     {
@@ -266,7 +266,7 @@
     }, 
     {
         "author": "Grzeg1", 
-        "text": "@Aaron as it's hard to get different wind conditions per request, the quickest approximation of head-wind would be some kind of resisting force in front of you. The easiest way to do it is just push someone resisting a bit in front of you.\n ", 
+        "text": "@Aaron as it's hard to get different wind conditions per request, the quickest approximation of head-wind would be some kind of resisting force in front of you. The easiest way to do it is just push someone resisting a bit in front of you.\nThis would be just to confirm that the sensor reacts to different power exerted, and not only to hills (they can be probably calculated from 3D accelerometer movement).\n ", 
         "time": "\n\t\t\tJanuary 31, 2015 at 6:38 am"
     }, 
     {
@@ -316,7 +316,7 @@
     }, 
     {
         "author": "gingerneil", 
-        "text": "Interesting... I've back runscribe, maybe they could build a similar algorithm into their data analysis? They certainly seem to have the hardware, altho now in delay.\n ", 
+        "text": "Interesting... I've back runscribe, maybe they could build a similar algorithm into their data analysis? They certainly seem to have the hardware, altho now in delay.\nReferring to trails and ultras. How would the power measure be impacted by different surfaces? By that I mean rocks, stones, tree roots etc? Whilst I can see how the measure changes with hills etc, won't it get uber confused by smaller surface changes you usually face on trails and find it a huge challenge (impossible?) to factor those things in?\nI think I'll stick to hr to measure 'effort' for now...\n ", 
         "time": "\n\t\t\tJanuary 30, 2015 at 1:07 pm"
     }, 
     {
@@ -331,7 +331,7 @@
     }, 
     {
         "author": "Brett from ZenTri", 
-        "text": "I interviewed the guys at Stryd about a month ago and also thought they had something great.  Podcast link here - \n ", 
+        "text": "I interviewed the guys at Stryd about a month ago and also thought they had something great.  Podcast link here - link to zentriathlon.com  You did a great job of testing it out for real!\n ", 
         "time": "\n\t\t\tJanuary 30, 2015 at 1:12 pm"
     }, 
     {
@@ -356,17 +356,17 @@
     }, 
     {
         "author": "atlantis", 
-        "text": "Well, what matters is the \"measurement of your body's to work\", to avoid blow up and get the best score possible, isn't it ?\n This tool could still be usefull but has to be combined with slope, wind, stride (3D ?), HR, posture data to give you hints on your technical mistake of the moment and improve efficiency (because running implies more motion liberties than cycling).\n anyway, I have both tickr run and garmin's HR+accelerometers strap, just have to wait the first one to implement that kind of \"suffer score\" around ...\n ", 
+        "text": "Well, what matters is the \"measurement of your body's to work\", to avoid blow up and get the best score possible, isn't it ?\n This tool could still be usefull but has to be combined with slope, wind, stride (3D ?), HR, posture data to give you hints on your technical mistake of the moment and improve efficiency (because running implies more motion liberties than cycling).\nIf not, that is just an \"average suffer score\" based on weight and some accelerations. I don't see how that could help improve running efficiency or avoid blow up during a race.\n anyway, I have both tickr run and garmin's HR+accelerometers strap, just have to wait the first one to implement that kind of \"suffer score\" around ...\n ", 
         "time": "\n\t\t\tJanuary 30, 2015 at 6:51 pm"
     }, 
     {
         "author": "Paul S", 
-        "text": "\" calculating the work required to achieve that motion\".\n But that's not what you want.  Running along a flat at a constant pace, the \n ", 
+        "text": "\" calculating the work required to achieve that motion\".\n But that's not what you want.  Running along a flat at a constant pace, the total work being done is zero because you're not accelerating so there's no net force (F = ma).  There are other forces operating than the ones you produce with your feet, and they do work, too.  What you want is how much power you need to generate with your muscles to offset the power being lost to external factors.   Air resistance would be one, but primarily for runners it just seems to be the power lost as your feet convert motion into heat as they slap the ground.  On grades, then gravity comes into play, but that's well understood and the power gain/loss is linear in the vertical speed.  But it can't be as simple as just using the measured acceleration, because most of the time that's going to be zero.\n ", 
         "time": "\n\t\t\tFebruary 1, 2015 at 9:01 pm"
     }, 
     {
         "author": "Dylan", 
-        "text": "\"Running along a flat at a constant pace, the total work being done is zero because you're not accelerating so there's no net force (F = ma).\"\n ", 
+        "text": "\"Running along a flat at a constant pace, the total work being done is zero because you're not accelerating so there's no net force (F = ma).\"\nI don't think you understand how running works, it isn't a constant pace along a flat. Running is launching yourself forward into the air with one foot then landing with the other before launching again over and over and over.\n ", 
         "time": "\n\t\t\tFebruary 4, 2015 at 12:17 am"
     }, 
     {
@@ -411,7 +411,7 @@
     }, 
     {
         "author": "Kim Osborne", 
-        "text": "Just wondering what type of power the Stryd is measuring: input (how hard you're working) or output (how much power is propelling you forward)? This assumes (input power) x (efficiency) = (output power).\n ", 
+        "text": "Just wondering what type of power the Stryd is measuring: input (how hard you're working) or output (how much power is propelling you forward)? This assumes (input power) x (efficiency) = (output power).\nOn a bike the comparison might be pedal-based vs hub-based which would have a difference in power based on drive train efficiency. In a running scenario, would Stryd be able to track improvements in run efficiency over time based on a standardized flat/indoor test (for example, a lower power at a given pace)?\n ", 
         "time": "\n\t\t\tJanuary 30, 2015 at 2:39 pm"
     }, 
     {
@@ -436,7 +436,7 @@
     }, 
     {
         "author": "Luke", 
-        "text": "Ray,\n ", 
+        "text": "Ray,\nWould it be possible (likely?) to use Connect IQ to open up the 920 to record power on the run?\n ", 
         "time": "\n\t\t\tJanuary 30, 2015 at 3:10 pm"
     }, 
     {
@@ -451,12 +451,12 @@
     }, 
     {
         "author": "atlantis", 
-        "text": "\"A goal is to adjust stride mechanics such that the power is LOWERED at a given pace.\"\n \"Whatever caused a higher use of expenditure will be reflected in the power number.\"\n ", 
+        "text": "\"A goal is to adjust stride mechanics such that the power is LOWERED at a given pace.\"\nReinventing running dynamics an N-th time again, with less data this time ?\n \"Whatever caused a higher use of expenditure will be reflected in the power number.\"\nI your run in deep snow/mud/sand I bet it will be the opposite : you wont get high power number but you'll definetly get high HR (and you'll spend far more *real* power/energy into it). Because your efficiency dramaticaly drops. The measure here is based only on gravity center, but it's completly blind to what your legs are doing to propels it.\n ", 
         "time": "\n\t\t\tJanuary 30, 2015 at 7:24 pm"
     }, 
     {
         "author": "Jamwhy", 
-        "text": ">>\n Again, this was what I was told by Stryd.\n >\n Well... I guess we will find out.  The endless speculation becomes a time suck at some point.\n ", 
+        "text": ">>\n\"A goal is to adjust stride mechanics such that the power is LOWERED at a given pace.\"\n>>\n>\n Reinventing running dynamics an N-th time again, with less data this time ?\n>\n Again, this was what I was told by Stryd.\n >\nI your run in deep snow/mud/sand I bet it will be the opposite : you wont get high power number but you'll definitely get high HR\n>\n Well... I guess we will find out.  The endless speculation becomes a time suck at some point.\n ", 
         "time": "\n\t\t\tJanuary 31, 2015 at 8:48 pm"
     }, 
     {
@@ -541,7 +541,7 @@
     }, 
     {
         "author": "Keith", 
-        "text": "Ray:\n ", 
+        "text": "Ray:\nIf they were able to do this akgorithm without anything to your feet, what would stop/prohibit them from combining into a bike powermeter? Then some app developer could build something on the new connect iq. Granted this is simplifying it, but if it could be done for running, why not biking?\n ", 
         "time": "\n\t\t\tJanuary 30, 2015 at 6:05 pm"
     }, 
     {
@@ -606,7 +606,7 @@
     }, 
     {
         "author": "panos", 
-        "text": "1. you do a test to find your hr threshold and at the same time measure power.\n Of course if you train on flat surfaces this gadget is useless because pace/speed are more useful in that situation\n ", 
+        "text": "1. you do a test to find your hr threshold and at the same time measure power.\n2. you divide your hr threshold power to zones.\n3. you train following power zones not hr zones.\n Of course if you train on flat surfaces this gadget is useless because pace/speed are more useful in that situation\n ", 
         "time": "\n\t\t\tJanuary 31, 2015 at 1:54 am"
     }, 
     {
@@ -621,7 +621,7 @@
     }, 
     {
         "author": "panos", 
-        "text": "I don't think there is much more than basic physics.\n Suunto could build an app to show running power and there are one or two allready created by users.\n I have also created an app to measure power using basic physics formulas and i will test it next week.\n ", 
+        "text": "I don't think there is much more than basic physics.\n Suunto could build an app to show running power and there are one or two allready created by users.\n I have also created an app to measure power using basic physics formulas and i will test it next week.\nMaybe the data i get are not precise, but as long as they are CONSISTENT i should be fine.\n ", 
         "time": "\n\t\t\tJanuary 31, 2015 at 1:50 am"
     }, 
     {
@@ -676,7 +676,7 @@
     }, 
     {
         "author": "Long Run Nick", 
-        "text": "I wish I would have paid more attention in my high school physics class 50+ years ago. Love the discussion. Who would've thought something as simple as running( something most of us did before we actually walked) had so many facets? I am sure the Kenyans use all this stuff, or do they?\n ", 
+        "text": "I wish I would have paid more attention in my high school physics class 50+ years ago. Love the discussion. Who would've thought something as simple as running( something most of us did before we actually walked) had so many facets? I am sure the Kenyans use all this stuff, or do they?\nRay, again you rule.\n ", 
         "time": "\n\t\t\tJanuary 31, 2015 at 2:12 pm"
     }, 
     {
@@ -701,7 +701,7 @@
     }, 
     {
         "author": "Bachoo", 
-        "text": "Perhaps you could expand on this Ze?    \n Sincerely, a PhD in school of life\n ", 
+        "text": "Perhaps you could expand on this Ze?    \n Sincerely, a PhD in school of life\n.\n ", 
         "time": "\n\t\t\tMarch 4, 2015 at 11:52 pm"
     }, 
     {
@@ -751,12 +751,12 @@
     }, 
     {
         "author": "DC Rainmaker", 
-        "text": "Yeah, I need to tweak my wording a little bit there to make it more clear - but yes, it would 'level out' as the hill levels out.  If you look at the first hill you can kinda see that.  I took that one the long ways and it shows up.  Obviously, it's just too short to make it super obvious in the graphs.\n (Funny, on my ride today I rode up the longest hill in Paris - a touch under 2 miles long, but rather painful (\n ", 
+        "text": "Yeah, I need to tweak my wording a little bit there to make it more clear - but yes, it would 'level out' as the hill levels out.  If you look at the first hill you can kinda see that.  I took that one the long ways and it shows up.  Obviously, it's just too short to make it super obvious in the graphs.\n (Funny, on my ride today I rode up the longest hill in Paris - a touch under 2 miles long, but rather painful (link to dcrainmaker.com) - kept on thinking how perfect it'd be for Stryd.)\n ", 
         "time": "\n\t\t\tFebruary 1, 2015 at 1:56 pm"
     }, 
     {
         "author": "Gabriel", 
-        "text": "No L/R measurements!!??\n ", 
+        "text": "No L/R measurements!!??\n:-P\n ", 
         "time": "\n\t\t\tFebruary 1, 2015 at 5:43 pm"
     }, 
     {
@@ -781,7 +781,7 @@
     }, 
     {
         "author": "Matt", 
-        "text": "Hey Ray and Jamie from Stryd,\n ", 
+        "text": "Hey Ray and Jamie from Stryd,\nBeing that the Forerunner 620 is not compatible with Connect IQ, would Garmin still be able to just open up another channel and record the data to the watch? Or, would the software on the 620 need such a considerable reworking that it would be unappealing for Garmin to spend any time/money on making the Stryd work with non-biking or IQ compatible watches? I loath running with my phone and would have less interest in this cool product if that (or some other new watch) was the only way for me to capture the new data.\nThanks.\n ", 
         "time": "\n\t\t\tFebruary 2, 2015 at 1:14 pm"
     }, 
     {
@@ -816,7 +816,7 @@
     }, 
     {
         "author": "DC Rainmaker", 
-        "text": "Within the Connect IQ world, there are basically four types of 'things':\n Apps\n To date, only Watch Faces and Data Fields have been released.  With Apps and Widgets forthcoming shortly.  That's really where you'd expect to see the Stryd functionality enabled.\n That said, I will note that the FR920XT does actually connect to a power meter in the running mode.  It just doesn't record that data at this time.  I know this mostly because the KICKR broadcasts power 24x7, and when in the proximity of the treadmill where I'm doing my runs, it picks it up.  But nothing is ever logged from the KICKR (it would at least have logged a zero-power value).\n ", 
+        "text": "Within the Connect IQ world, there are basically four types of 'things':\n Apps\nWidgets\nWatch Faces\nData Fields\n To date, only Watch Faces and Data Fields have been released.  With Apps and Widgets forthcoming shortly.  That's really where you'd expect to see the Stryd functionality enabled.\n That said, I will note that the FR920XT does actually connect to a power meter in the running mode.  It just doesn't record that data at this time.  I know this mostly because the KICKR broadcasts power 24x7, and when in the proximity of the treadmill where I'm doing my runs, it picks it up.  But nothing is ever logged from the KICKR (it would at least have logged a zero-power value).\n ", 
         "time": "\n\t\t\tFebruary 9, 2015 at 6:06 pm"
     }, 
     {
@@ -851,7 +851,7 @@
     }, 
     {
         "author": "Jon Beverley", 
-        "text": "On sale now! \n ", 
+        "text": "On sale now! link to kickstarter.com\n ", 
         "time": "\n\t\t\tMarch 3, 2015 at 7:36 am"
     }, 
     {
