@@ -1,1 +1,1 @@
-../../google_appengine/appcfg.py --oauth2 update ../project
+../google_appengine/appcfg.py --oauth2 update ../project
