@@ -16,14 +16,18 @@
 	<script type="text/javascript" src='//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 	<script>
 		var form = document.querySelector('[data-search="form"]');
-		form.addEventListener('click', function () {
+		form.addEventListener('submit', function (e) {
+			e.preventDefault();
+			console.log('Submit triggered');
 			console.log('Search terms:', form.terms)
 			var req = $.ajax({
 				method: 'POST',
-				url: '/search'
-				data: {
-					terms: form.terms
-				}
+				url: '/search',
+				data: JSON.stringify({
+					terms: form.terms.value
+				}),
+				dataType: 'json',
+				contentType: 'application/json; charset=UTF-8'
 			});
 			req.done(function () {
 

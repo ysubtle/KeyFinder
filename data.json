@@ -1,0 +1,862 @@
+[
+    {
+        "author": "Tom H.", 
+        "text": "Ah...what happens when you run on a  regular treadmill? Does the algorithm work then?\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 11:10 am"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "Yup, the charts are from on the treadmill. :)\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 11:12 am"
+    }, 
+    {
+        "author": "Jamie (Stryd)", 
+        "text": "We tested running on the treadmill and outdoors. We found that running form and therefore power generation varies between the two. It is kind of neat to be able to see the impact of training outdoors vs. indoors.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 10:18 pm"
+    }, 
+    {
+        "author": "Bert", 
+        "text": "Would you be able to elaborate on the impact of treadmill running? I'm currently in a marathon training cycle while staying in an Indian city for work, so I only get to do outdoor runs when I have a bit more time during the weekend.\n I obviously don't have a Stryd yet, but do have a HR meter and a footpod. Are there any specific changes I could make to my scheduled runs to account for the treadmill effects?\n ", 
+        "time": "\n\t\t\tJanuary 31, 2015 at 10:35 am"
+    }, 
+    {
+        "author": "Jamie (Stryd)", 
+        "text": "When you run on a treadmill, you avoid many outdoor environmental effects, such as changes to surface conditions, wind, and elevation. Adapting to those effects can require changes in form and running power. \n In our tests with Stryd, and when going through the research literature, we found that the same pace can produce different effects on the body when running on a treadmill and outdoors. However, we didn't find any hard rule about the size of this difference that holds for different runners. \n The following studies give deeper insight on this topic if you are interested to learn more.\n Stryd may be able to help quantify how your own personal running power changes in different running environments to help you adjust your training plan accordingly. If you end up giving it a try in that application, we want to hear about your experiences:)\n ", 
+        "time": "\n\t\t\tJanuary 31, 2015 at 11:42 pm"
+    }, 
+    {
+        "author": "Chris C.", 
+        "text": "Hi Jamie,\n Sounds great but it looks like app. half of the articles are not available for free.\n ", 
+        "time": "\n\t\t\tFebruary 3, 2015 at 7:49 am"
+    }, 
+    {
+        "author": "Mark Liversedge", 
+        "text": "This looks neat. But boy is it going to confuse multisport software !\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 11:10 am"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "I think I know someone who might be able to take care of that...\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 11:13 am"
+    }, 
+    {
+        "author": "the5krunner", 
+        "text": "Thanks for the heads-up. Interesting. I saw that one of the sports software vendors (sporttracks) allowed a pace to power conversion through one of their plugins. Whilst nice and whilst it could then tie in to a degree with power data from cycling I just couldn't see how it would be actionable. eg How could you then run in your SWEETSPOT power zone? You just wouldn't know what the running power was when you were running. \n I guess now there's a solution. I wouldn't use it myself but as you say, there are probably many who eventually will.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 11:13 am"
+    }, 
+    {
+        "author": "Trevor", 
+        "text": "Quick typo to note: \"The hardware I ran, the higher the values.  \"\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 11:18 am"
+    }, 
+    {
+        "author": "Perry Taylor", 
+        "text": "I can understand how this takes into account inclines, but how can an accelerometer take wind into account?  It sounds like this is much more of an indirect power meter like an iBike than it is a direct power meter like a Quarq or PowerTap, am I missing something?\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 11:21 am"
+    }, 
+    {
+        "author": "Jeff", 
+        "text": "This was my initial thought as well. I wonder if it can tell your rate of deceleration while you're airborne. I assume you also have to tell it your weight, and to get accurate numbers, you'd probably want to weigh yourself immediately before beginning a workout, since weight can fluctuate so much day to day.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 11:53 am"
+    }, 
+    {
+        "author": "Sai To", 
+        "text": "I wonder how accurate it can do on different terrain for example dry sand, gravel, muddy?\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 3:48 pm"
+    }, 
+    {
+        "author": "Robert Dick (Stryd)", 
+        "text": "We have a plan to properly account for the impact of changes in wind speed but we don't have solid testing results on this now.  We'll follow up here, and on our blog (\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 4:28 pm"
+    }, 
+    {
+        "author": "Takura", 
+        "text": "For different surfaces as well as deciding airborne time (to know when to measure wind effect) a connected system of accelerometers on body core and footpods would seem more plausible ... but I'd be more surprised if those guys hadn't thought of that already ...\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 8:49 pm"
+    }, 
+    {
+        "author": "Ze", 
+        "text": "They won't (accurately enough for high-level training). This device is assessing power based on essentially statistically associations rather than causal measurements.\n ", 
+        "time": "\n\t\t\tFebruary 8, 2015 at 11:13 am"
+    }, 
+    {
+        "author": "GoldRush", 
+        "text": "For $150 sign me up.  I'd be interested to see how this power data compares to my cycling power data.  Possibly a more accurate TSS in Training Peaks like I get with my PowerTap.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 11:25 am"
+    }, 
+    {
+        "author": "Jamie (Stryd)", 
+        "text": "We found that the cycling and running power numbers for an athlete typically can differ. However, once Stryd has characterized your functional threshold power (for example, with a 5k or 10k run) similar approaches as used in cycling can be used to determine training plans.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 10:23 pm"
+    }, 
+    {
+        "author": "Donnie Barnes", 
+        "text": "I know you mentioned ultra runners, but to me the thing left out here is how this impacts normal trail runners.  There are more and more of us out there who almost never run on anything but trail, even though we are normal folks who shave our faces, eat meat, and only run maybe 20 miles a week.  And we some of us even like to geek out on data.\n And for those of us who run on lots of DIFFERENT trails with different terrains, this can help us better identify what kind of work we really did.  Especially since our GPS units still lie a lot (yes, even the 920XT shorts me on trail and I know it because I ride the same trails on an MTB equipped with wheelspeed sensor.\n Anyway, I think it's going to be much more useful in that arena than anywhere else, personally.\n --Donnie\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 11:26 am"
+    }, 
+    {
+        "author": "Rodrigo Valle Teixeira", 
+        "text": "Hi Ray,\n So..... it seems that the same function could be done by the existing accelerometers on the latest Garmin HRM strap (the one with running dynamics). It would just be a matter of software on the strap and watch.\n Thanks!\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 11:26 am"
+    }, 
+    {
+        "author": "Justin", 
+        "text": "I think it has to have more than just an accelerometer.  You'd need a barometer for elevation differences, and Ray kept going on about wind resistance, so I would think it would need some sort of wind meter as well.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 12:06 pm"
+    }, 
+    {
+        "author": "Johannes", 
+        "text": "Many watches do have a barometer, too. As for wind, there's no conceivable way this small unit clipped somewhere on the shorts has any kind of wind meter.\n I'd love for the software to be licensed by Polar, Garmin etc. and incorporated into their watches.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 2:33 pm"
+    }, 
+    {
+        "author": "Mark", 
+        "text": "If a startup company like Stryd can easily make a dual-band (ANT+ and Bluetooth Smart) sensor, why is it so difficult for manufacturers of other sensors (cycling power, cadence, HR) to also make their sensors dual-band? One notable exception is Wahoo Fitness , but I can't think of too many, if any, others.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 11:44 am"
+    }, 
+    {
+        "author": "Matt", 
+        "text": "Hi Ray, you mentioned that most cyclists use 3s or 10s averages to get a smoother reading, are those rolling averages or set reset averages?\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 11:45 am"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "Rolling averages.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 12:30 pm"
+    }, 
+    {
+        "author": "David", 
+        "text": "That sounds really cool. For $150 I'll probably buy one. But I'm wondering how long it will take Garmin/Training Peaks to support running with power. Without those two pieces, it'll really be somewhat limited. I guess until that time comes, I'll have to use the app on my phone. Did you mention the phone platforms they will be supporting?\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 11:56 am"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "iOS/Android, however since it broadcasts on the standards than honestly it can be used on anything that has an app that supports power/etc...\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 12:38 pm"
+    }, 
+    {
+        "author": "David", 
+        "text": "Except it is still going to be an issue finding an app that supports power while running. Yes, it should not be a difficult change for any app developer to make. But convincing them that there is a market for it will still be an issue. I think that's what will hold back Garmin and TP, honestly. It's not the difficulty in the problem, it's the perceived market share. Hopefully if the guys at Stryd blow out their kick starter goals, it will show Garmin and TP that there really is interest. (Or maybe could fund some development for those platforms if necessary).\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 2:29 pm"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "My understanding is they've already been talking with TP.\n As for Garmin, that's actually less of an issue with Connect IQ now. Stryd could just develop their own app...and done.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 3:27 pm"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "Update: Talked with the TP guys and found the issue I was having (it wasn't showing in preview mode, but is showing in full graph mode).  In any case, posted the TP view too. Note that the Stryd folks noted to me prior to upload into TP that at this point the values for TSS/IF/Calories/etc won't really be correct quite yet.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 6:14 pm"
+    }, 
+    {
+        "author": "David", 
+        "text": "Thanks for the update. Totally going to try this out. Regarding Connect IQ, initially I thought it would suffer from the same problem as the Moxy folks were explaining, you can't record a custom ANT stream into the fit file. But then I realized, based on their description, \"someone\" would just need to create an app that utilizes the power meter sensor, and it should record automatically into the file. So yes, that should be an easy to solve issue.\n Just out of curiosity, did you try uploading their file to Garmin Connect? Can it handle power in a run profile?\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 6:37 pm"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "Funny, I hadn't tried it.  But oddly enough, it did import to GC:\n It doesn't show the map - but it doesn't on any of the services I use.  I think the .FIT file generation they used doesn't support the map at this time, which is fine.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 6:50 pm"
+    }, 
+    {
+        "author": "Robet Dick (Stryd)", 
+        "text": "Stryd already supports location information in FIT files. The map will be shown for all the exercises you do with Stryd.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 10:19 pm"
+    }, 
+    {
+        "author": "Jamie (Stryd)", 
+        "text": "The nice thing about power is that mainstream online training platforms already support it, and some have already made it available for running. For instance, we can show running power on Suunto\u2019s Movescount and on TrainingPeaks.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 10:26 pm"
+    }, 
+    {
+        "author": "David", 
+        "text": "Ray, that's interesting. When zooming in on GC, I had previously noticed that for the first interval, the pace and power change don't in sync. I had assumed that the power was off. But actually based on the duration of the power bump, I actually think the pace value was off. The power cycles are very clearly on one minute edges. So that initial discrepancy must be due to an error in the pace calculation. Do you know where this pace came from? (GPS phone, watch GPS (which one), foot pod (either actual or emulated by the Stryde)).\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 11:15 pm"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "I don't know which device this data came from (Ambit3/Phone/Unit itself).  I'll try and get some clarity.\n ", 
+        "time": "\n\t\t\tJanuary 31, 2015 at 9:15 am"
+    }, 
+    {
+        "author": "FrostByteVA", 
+        "text": "If this really is primarily a software platform, I'd love to see them license it to Wahoo to go along with my Tickr X.  Smoothness metrics and power in the same app would be great.  I'd still pay $100 just to unlock the software if the Tickr has the required hardware components.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 11:57 am"
+    }, 
+    {
+        "author": "Tom", 
+        "text": "My first thought as well was whether the Tickr X could be updated to provided the data necessary for the software to work.\n Ray - Do you know if Stryd is talking with other companies about licensing their software?\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 12:53 pm"
+    }, 
+    {
+        "author": "Pablo", 
+        "text": "Great marketing for a foot pod. I was expecting a price range near to the foot pods. I don't see any added value to what I have right now ( Fenix 2 with HRM-RUN ).\n The work on the algorithms and the software looks very nice. I think the same algorithms can be applied to a cheaper hardware like the Wahoo TICKR X or even from the same data collected by my Fenix2 + HRM-RUN\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 12:07 pm"
+    }, 
+    {
+        "author": "morey000", 
+        "text": "\"...I think the same algorithms can be applied to a cheaper hardware like the Wahoo TICKR X...\"\n or an iphone app.  $4.99 \n But hey- I paid a lot more for my PowerTap than what they're asking for this device.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 12:20 pm"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "A HR strap, likely. A phone might be trickier though due to aspects around you moving your arms as well.  Unsure there.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 12:25 pm"
+    }, 
+    {
+        "author": "peroni", 
+        "text": "For android there is an app available claiming to  measure power while running\n There is also one for cycling by the same developer.\n Storing the phone is a small waist pack should return similar results.\n ", 
+        "time": "\n\t\t\tJanuary 31, 2015 at 9:30 am"
+    }, 
+    {
+        "author": "Jeff", 
+        "text": "You don't know how expensive this hardware is because you're buying it bundled with innovative software. And just because the marginal cost of software is zero doesn't mean that it isn't still very expensive in low volume, niche products like this.\n ", 
+        "time": "\n\t\t\tFebruary 2, 2015 at 10:04 am"
+    }, 
+    {
+        "author": "Ken", 
+        "text": "I run with my Samsung GSIII in a Level Flip Belt.  No armband necessary. \n ", 
+        "time": "\n\t\t\tFebruary 4, 2015 at 3:18 pm"
+    }, 
+    {
+        "author": "zazo", 
+        "text": "I have a problem understanding this line of yours:\n \"Now if you look at the last two ups/downs you\u2019ll see the really interesting alignment there where power follows the hill profile almost perfectly (just like it would when cycling), whereas pace is inverted.\"\n Why would the power rise like the hill profile while pace is dropping. I could see that happening only if you would be accelerating. Or if the gradient would be increasing and your pace would remain the same.\n I think the \"hills\" you did were just to small to see where your climbing power would settle and there is too little data to show how this power meter behaves in climbing situations. If you don't look at time and meters climbed it just looks wrong to me. If I consider short time, that could explain there was not enough time for power to settle in.\n Maybe I'm missing something, but chart and your explanation just don't look right to me at the moment.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 12:08 pm"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "As the hill goes up in elevation, my power spikes.  On a longer hill you'd see my power eventually settle in on a higher value.  Whereas my pace drops, because the hill slows me down.\n Didn't mean to imply that my power would forever increase.  Just that it increased when I hit the hill (which is normal in cycling too, unless you reduce effort).\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 12:27 pm"
+    }, 
+    {
+        "author": "Nick B", 
+        "text": "Single sided power meter= fail\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 12:11 pm"
+    }, 
+    {
+        "author": "morey000", 
+        "text": "want.   nay, need.\n Take my money!\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 12:18 pm"
+    }, 
+    {
+        "author": "Chris", 
+        "text": "Do you know what its inputs are? Is it just pace and vertical movement up and down hills? Basically, can it account for wind in anyway, via some measurement or HR based voodoo? \n Also, the pedant in me (and he is strong) thinks that this thing should be called a power.. estimator, or something like that. Even if it happened to be extremely accurate. \n Thanks for the write up!\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 12:22 pm"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "There's probably some truth in calling it an estimator (similar to iBike).  But, until someone comes up with something else in the field for running, or a better consumer-friendly term...I'm gonna stick with it.\n In cycling we can divide things up into direct force power meters (DFPM's, i.e. PowerCal/iBike) and non, but since we only have one unit in running it's a bit more...pedant.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 12:32 pm"
+    }, 
+    {
+        "author": "Grzeg1", 
+        "text": "Did you have a chance to test:\n Great review as always.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 1:16 pm"
+    }, 
+    {
+        "author": "Daniel", 
+        "text": "Exactly what i thought when I read the article. \n What about slippy/muddy ground ?\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 1:43 pm"
+    }, 
+    {
+        "author": "Aaron", 
+        "text": "There is no magic. It's an accelerometer with a high sampling rate that infers the force required to achieve the (modeled) movement of the athlete in 3D. Right? As others mentioned I'd be surprised if it works on slippery/soft surfaces. I'm less concerned about accuracy pushing people. Unless you're training for the zombie apocalypse? Or a black Friday sales rush? #smh\n For comparing hills to flat workouts there is already grade adjusted pace modeling (and literature to back it!). Doesn't seem that compelling. I would need to see a) that there is improved accuracy, b) that it's useful.\n It seems the value is the \"smarts\" in pooping out a single value (power) which if normalized to other power training (bike meter) could give you better apples to apples effort values for multi-sport athletes. Better effort values means more accurate multi-sport training load modeling. Which means (in theory) better ability to tune training periodization and tapering. \n (somewhat) side note: I don't think the \"inertia\" of the heart-rate based training industry should be underestimated. There are a whole lot of people and companies invested in telling you the ONLY way to accurately measure your fitness effort is by HRM training. They'll go kicking and screaming allowing an upstart sensor to \"proxy\" that. Ponder why the HRM market didn't collapse when GPS watches came out and whether it's really a question of needing increased resolution of movement sensors and a bit of software modeling.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 3:42 pm"
+    }, 
+    {
+        "author": "Grzeg1", 
+        "text": "@Aaron as it's hard to get different wind conditions per request, the quickest approximation of head-wind would be some kind of resisting force in front of you. The easiest way to do it is just push someone resisting a bit in front of you.\n ", 
+        "time": "\n\t\t\tJanuary 31, 2015 at 6:38 am"
+    }, 
+    {
+        "author": "Richard", 
+        "text": "I'm a trail runner and use training peaks and strava where grade adjusted pace is calculated (GAP). In training peaks it calculates much lower training stress values then a same effort on flats based on running threshold values which is very accurate. Same for strava where I can get my heart rate much higher than my marathon pace and calculate GAP is much lower. \n The reason for that might be that my running technique is bad and I jump much more than I should or that the terrain forces you to step in ways that tires the body more. IMO, in all these cases, calculating the weight moved at the hips would be a much more accurate measure of true effort. \n Wind doesn't matter much at trail running speeds, we often walk or go very slow even elites. Maybe a calulation that takes into account GAP and HR (after removing delay) could provide a power or efficiency value.\n ", 
+        "time": "\n\t\t\tMarch 29, 2015 at 10:48 pm"
+    }, 
+    {
+        "author": "Donnie Barnes", 
+        "text": "The more I think about it, the more I wonder how useful this might be for other sports like basketball.   Ray, have they talked about anything like that?  \n Curious more from a training load kind of perspective for guys who play at the college and pro level.  Things like RPE are getting more and more common in usage, but this could be something that would really help better quantify the amount of work being done by an individual in that kind of setting (there are some reasons why HR just isn't good enough on its own).\n --Donnie\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 12:33 pm"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "I stopped paying attention to basketball after they moved (my) Seattle SuperSonics to some place in the middle of nowhere...\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 12:42 pm"
+    }, 
+    {
+        "author": "Donnie Barnes", 
+        "text": "Hey, I feel your pain on that having lived through *getting* an NBA expansion team in Charlotte (the first Hornets) and then having them taken away when they moved to some city that sits on the coast below sea level.  But at least we got them back eventually (and maybe you will, too!).\n But no mention of other sports? I could see this useful on the football field as well.  At least for some positions (and I hear you have a team from your beloved Seattle that might just still be playing one more football game?).\n --Donnie\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 12:48 pm"
+    }, 
+    {
+        "author": "Trevor", 
+        "text": "Any word on when the company will begin crowd sourcing?\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 12:43 pm"
+    }, 
+    {
+        "author": "Gary", 
+        "text": "This all looks really impressive, but the kind of runner who wants to use something is looking for accuracy otherwise what's the point? If this device is merely guessing based on variable inputs fed into an algorithm, is this really any more than a gimmick designed to part fools with their money?\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 1:03 pm"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "I think it's a given that if it's not accurate, then it's useless.  At this point, according the data they've provided it matches.  As noted in the post, that's something I'm looking to be able to independently validate down the road.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 1:05 pm"
+    }, 
+    {
+        "author": "Justin", 
+        "text": "The value is probably more in the precision than the accuracy.  Being able to train consistently and then race consistently based on the output of the power is extremely helpful and useful.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 1:08 pm"
+    }, 
+    {
+        "author": "gingerneil", 
+        "text": "I see your point, but as long as it's consistent, rather than accurate, you can still achieve what you want from it. But I've  guess you can say this about any power measurements!\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 1:10 pm"
+    }, 
+    {
+        "author": "gingerneil", 
+        "text": "Interesting... I've back runscribe, maybe they could build a similar algorithm into their data analysis? They certainly seem to have the hardware, altho now in delay.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 1:07 pm"
+    }, 
+    {
+        "author": "Brian", 
+        "text": "did you mean watts/kilogram in the first paragraph?\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 1:11 pm"
+    }, 
+    {
+        "author": "Ricardo Falcon", 
+        "text": "Yeap... He meant watts/kilogram...\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 2:39 pm"
+    }, 
+    {
+        "author": "Brett from ZenTri", 
+        "text": "I interviewed the guys at Stryd about a month ago and also thought they had something great.  Podcast link here - \n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 1:12 pm"
+    }, 
+    {
+        "author": "Tom", 
+        "text": "Ray-\n Could Stryd's software work with accelerometers from other locations, such as the Tickr X or even runScribe's shoe accelerometer?\n Is Stryd talking with any other companies about using their software/algorithms without a shorts-mounted accelerometer?\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 1:13 pm"
+    }, 
+    {
+        "author": "Donnie Barnes", 
+        "text": "I think people are going too far in the \"estimator\" side.  IMHO, using HR data is estimating with a dash of intelligence.  This is measuring your actual motion in 3D space in real time and calculating the work required to achieve that motion.  And if their algorithms for doing that are verifiable against force-plate treadmills, then it's not \"estimation\", I don't think.\n --Donnie\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 1:13 pm"
+    }, 
+    {
+        "author": "Mark", 
+        "text": "Donnie, thanks for this very insightful comment. Your simple explanation of how the Stryd device works makes complete sense. And it also addresses some of the other comments above about whether the device would also require other sensors such as a barometer and wind sensor. If your explanation is correct, then clearly it would not need any of these other sensors - just the accelerometer.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 2:10 pm"
+    }, 
+    {
+        "author": "Brett Blankner", 
+        "text": "Correct.  The only thing HR is... is a measurement of your body's to work, not the actual work itself.  Since the reaction is delayed, it's often too little, too late.  But if you're familiar with what your body's reaction to known work is (from training), you can keep an eye on the work and never let the reaction happen.  If you know that you blow up after doing 250 watts for 2 hours, then you can avoid the blow up by staying at 245.\n The combination of the two is where the magic happens.  You learn how your body reacts to specific work, then use that knowledge in races and also to measure improvements to see if a training method is working.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 3:10 pm"
+    }, 
+    {
+        "author": "atlantis", 
+        "text": "Well, what matters is the \"measurement of your body's to work\", to avoid blow up and get the best score possible, isn't it ?\n This tool could still be usefull but has to be combined with slope, wind, stride (3D ?), HR, posture data to give you hints on your technical mistake of the moment and improve efficiency (because running implies more motion liberties than cycling).\n anyway, I have both tickr run and garmin's HR+accelerometers strap, just have to wait the first one to implement that kind of \"suffer score\" around ...\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 6:51 pm"
+    }, 
+    {
+        "author": "Paul S", 
+        "text": "\" calculating the work required to achieve that motion\".\n But that's not what you want.  Running along a flat at a constant pace, the \n ", 
+        "time": "\n\t\t\tFebruary 1, 2015 at 9:01 pm"
+    }, 
+    {
+        "author": "Dylan", 
+        "text": "\"Running along a flat at a constant pace, the total work being done is zero because you're not accelerating so there's no net force (F = ma).\"\n ", 
+        "time": "\n\t\t\tFebruary 4, 2015 at 12:17 am"
+    }, 
+    {
+        "author": "Ze", 
+        "text": "Acceleration is not a direct measure of the body's work output.\n ", 
+        "time": "\n\t\t\tFebruary 8, 2015 at 11:17 am"
+    }, 
+    {
+        "author": "Mike", 
+        "text": "How would you compare this product to the Powertap PowerCal which can measure Power through Heartrate variability? Which would you consider more accurate for running?!\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 1:42 pm"
+    }, 
+    {
+        "author": "Matt", 
+        "text": "I would be curious about this as well.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 4:15 pm"
+    }, 
+    {
+        "author": "Eric Richardson (Tri Nerd)", 
+        "text": "The estimator argument seems short sighted. From what I've read, the insole approach has never worked due to the dramatic variation in run form, shoe flexibility, etc. A force plate works in cycling because the drive train is consistent. The \"human\" drive train isn't. The only way to measure power is probably from center mass, and if the Stryd people have figured that out, count me in!\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 1:52 pm"
+    }, 
+    {
+        "author": "Matt", 
+        "text": "Just out of curiosity, what would happen if you rode a bike while wearing it? Or asked differently, what force(s) does the stryd measure and how do they differ vs accelerometer based cycling tech?\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 2:13 pm"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "It wouldn't really work, since it's lacking being able to create a 3D force profile of your running efforts.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 3:23 pm"
+    }, 
+    {
+        "author": "Brandon", 
+        "text": "I would also like to see what happened if you wore this while riding bike. Since it doesn't have sensors in your shoes to measure force on the ground could you wear it as a cycling power meter? Would the accuracy and outputs be similar to those from bike specific power meters? If you could wear this for biking I could see this as being a contender in the power meter market with its low price point.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 3:30 pm"
+    }, 
+    {
+        "author": "Steve", 
+        "text": "I doubt it would work while cycling as the gearing and ability to freewheel would make modelling the effort impossible. I assume the model requires that you use muscles to move your mass all the time. That said potentially with Di2 and cadence data you could probably model uphill power based on accelerometer data.\n ", 
+        "time": "\n\t\t\tJanuary 31, 2015 at 3:11 am"
+    }, 
+    {
+        "author": "Kim Osborne", 
+        "text": "Just wondering what type of power the Stryd is measuring: input (how hard you're working) or output (how much power is propelling you forward)? This assumes (input power) x (efficiency) = (output power).\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 2:39 pm"
+    }, 
+    {
+        "author": "Clark Mitchell", 
+        "text": "Great question Kim, hopefully someone will circle back and give an answer...\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 4:59 pm"
+    }, 
+    {
+        "author": "Jamie (Stryd)", 
+        "text": "Stryd measures your output power. We compared Stryd power with the power value implied by VO2max testing equipment and found that the two were very well correlated. The output power to VO2max power ratio was approximately 25%, which is in line with human efficiency estimates.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 10:31 pm"
+    }, 
+    {
+        "author": "Ze", 
+        "text": "Great question. It looks like they are just trying to estimate how hard you are working. Basically they have some accelerometer features engineered into an algorithm that estimates a value that is proportional to how hard you are working when running. These values are then collected along with VO2 / HR metrics and matched to power outputs from cycling (or something else with easily calculable power ouput) with the same VO2 values. Then they have come up with an effective \"power output\" value.\n That's my general guess. They are not measure positive power generated in the propulsive phase and negative power in the breaking phase. These values would not match power values you would see in cycling.\n ", 
+        "time": "\n\t\t\tFebruary 8, 2015 at 11:23 am"
+    }, 
+    {
+        "author": "wdahm519", 
+        "text": "Great review. I'm really looking forward to trying this out. I'm glad that the price point for this power meter doesn't extend as high as cycling power meters. My lack of power meter is due to the exact reason that you pointed out: prohibitive cost for my budget and what I think I can get from that cost. \n Even though there are some meters out there in the low $100's, my performance gain from that money is better spent elsewhere. At the $150 pricepoint, I can afford to screw around with running power.\n I'm stoked!\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 2:52 pm"
+    }, 
+    {
+        "author": "Luke", 
+        "text": "Ray,\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 3:10 pm"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "Yup, easily.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 3:22 pm"
+    }, 
+    {
+        "author": "Jamwhy", 
+        "text": "~ I used the Wahoo device.  I hated it and sent it back.  The phone app was terrible.\n According to my source, a person at Stryd:\n ~ This is a high end accelerometer with a very high sampling rate.  The trick was to use proprietary algorithms such that the power use is manageable.  This makes the hardware different than any other hardware (hardware/software package.)\n ~ This is a complementary device to a heart rate monitor.  Though it can be used in a similar fashion as an HR monitor, it can also be used to measure power against heart rate.\n ~ A goal is to adjust stride mechanics such that the power is LOWERED at a given pace.  More speed with less power.  The breakdown charts can help diagnose the potential trouble spots.  My opinion, a \"trouble spot\" is a subjective thing.\n ~ This is biomechanics modeling.  The amount of motion hence energy expenditure is the power used.  Whatever caused a higher use of expenditure will be reflected in the power number.  For example, hills, sand, wind.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 3:38 pm"
+    }, 
+    {
+        "author": "atlantis", 
+        "text": "\"A goal is to adjust stride mechanics such that the power is LOWERED at a given pace.\"\n \"Whatever caused a higher use of expenditure will be reflected in the power number.\"\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 7:24 pm"
+    }, 
+    {
+        "author": "Jamwhy", 
+        "text": ">>\n Again, this was what I was told by Stryd.\n >\n Well... I guess we will find out.  The endless speculation becomes a time suck at some point.\n ", 
+        "time": "\n\t\t\tJanuary 31, 2015 at 8:48 pm"
+    }, 
+    {
+        "author": "Nick Vacirca", 
+        "text": "If the magic is, as you say, in the software then do you think they'll start marketing this as something to sell to other parties? I'm all for getting more functionality out of the sensors all of us are already wearing, but I think we're really starting to get to a point of redundant hardware.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 4:10 pm"
+    }, 
+    {
+        "author": "a_circelli", 
+        "text": "Hi Ray. Did you consider a comparison between Stryd and powerCal during running? A few months ago I try power-cal in running mode with my Fenix 2: it works, but I noticed that power value was overstimaded. What do you think?\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 4:46 pm"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "If/when I'm sent a unit to try for longer, I'd definitely try something like that for fun.  At the time though it wasn't something that crossed my mind.  Sorry!\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 4:58 pm"
+    }, 
+    {
+        "author": "Brad", 
+        "text": "Is that the track at UNLV? If so I have ran around that many a times.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 5:05 pm"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "Yup indeed.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 5:13 pm"
+    }, 
+    {
+        "author": "Daniel Hessel", 
+        "text": "Since it's \"only\" an accelerometer on the hardware side and the rest is software. Couldn't this thing be implemented in heart rate straps in a similar way that running metrics is in the newer Garmin Bands och Wahoo Tickr Run/X? Or is a heart rate strap placed too high to be of any use?\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 5:07 pm"
+    }, 
+    {
+        "author": "Paul S", 
+        "text": "It's likely a much better accelerometer.  If an accelerometer is error free, you can calculate instantaneously the current velocity (in 3D) and distance traveled (again, in 3D) simply by integrating the equations of motion with the known 3D acceleration.  With errors involved, eventually you're going to lose track of both, but it may take longer than a typical run to do so with a good enough accelerometer.  Of course, the ground is there and you're stuck to it, so recalibrating in the vertical isn't a problem.\n So the question is, where are the power losses for a runner?  For a cyclist, they're overwhelmingly due to wind resistance on the flat, and simple mgv (mass times the acceleration of gravity times the vertical speed) plays a role on climbs (and descents).  Other causes are minor compared to air resistance on a flat road.  For a runner, maybe vertical bouncing plays the significant role on the flats?  The question arises because if you're running at a constant speed on a flat road, the acceleration is zero horizontally, and all you have to do is overcome losses to maintain that speed.  (If there are no losses, you don't have to work at all.)  Cycling power meters actually measure the force, and the power is easy to obtain from that.  Here, it's a little more mysterious.  They can estimate the power loss due to wind (more or less, since they can't know the wind speed due to weather all they can do is assume it's all self generated), but maybe it isn't that important.  So possibly its mostly losses due to vertical motions of the center of mass (the energy is lost when feet hit the ground, turning it into heat).  Something to think about when I have some time...\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 9:09 pm"
+    }, 
+    {
+        "author": "Kevin Weiner", 
+        "text": "Power meter for the runner!!!! YES, I use the power function on the treadmill to ensure I am working at the rate I want/ need to ! I actually quit tracking HR since it was easier to plan my runs better on power indoors. I can compare an incline run to a flat run and make sure I am working at my 5K race effort even though I am doing slower hill runs. I would love to see this interact with wahoo ticker I might start using it again. Honestly I am a 6:40-6:20 10K runner in Colorado Springs and due to the elevation and hills everywhere this would be fantastic to know if I am working as hard as should perceived effort only goes so far on various terrain. I will say when I do indoor un, the power is more motivating than anything else. Keep us update because this seem like the grail from a various terrain training function.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 5:29 pm"
+    }, 
+    {
+        "author": "Jessica", 
+        "text": "This is silly. In running, power (VO2 cost) is linearly proportional to speed. It really doesn't matter exactly what your power output is, only its proportion to your velocity at VO2 max. This widget doesn't get you anything new. It's just an expensive pedometer, and it is defiantly not likely to be accurate enough to be useful.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 5:38 pm"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "\"In running, power (VO2 cost) is linearly proportional to speed.\"\n Except when it's not.  Which is hills/wind/etc...\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 5:45 pm"
+    }, 
+    {
+        "author": "Jamwhy", 
+        "text": "> In running, power (VO2 cost) is linearly proportional to speed.\n Do you mean V02 cost is linearly proportional to POWER?\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 6:01 pm"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "Even if you take that as true, that would by default also apply to cycling - no?  And thus if so, why have a cycling power meter?\n (Playing devils advocate)\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 6:09 pm"
+    }, 
+    {
+        "author": "Jessica", 
+        "text": "Which is why when you care, you use a track or treadmill. Or if you live the run by HR dream, you use that. VO2 cost is a measure of power normalized by weight. It is measured in units of milliliters of oxygen per kg body weight per minute. It is a normalized stand-in for energy per unit time (power), except energy is measured in oxygen consumed instead of energy units. Ray, this thing is a pedometer. It can't accurately measure power. Of course the power to speed graphs look correlated and that creates a nice illusion that this thing does something useful. But the power gaps between 10k pace, 5k pace, etc are only a few percent. The trick is to accurately measure power in a small useful range, not produce correlated charts.  \n The gold standard is all the research done by Jack Daniels and his labs more than thirty years ago.  Nothing has really changed. This is less accurate and less useful than simply having accurate pacing. I'm a septic and I'm calling shenanigans. \n So company that makes this thing: you want to prove it works? Put a bunch of people on a treadmill with and connect them to a VO2 meter then run them through everything from their easy range up to and even past their VO2 max velocity. Prove the results match for a bunch of people at a bunch of speeds.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 9:48 pm"
+    }, 
+    {
+        "author": "Jamwhy", 
+        "text": "Stryd, like the name states, is about analysis of mechanics.  As the makers admit, they used Power as a measurement because it is a single number most athletes understand and can be shown in realtime on a watch.  In reality, there are several components to the stride that can be shown.  I think, perhaps, you are conflating the idea of effort with speed.  This is a notion from the outdated concepts of the old coaches, such as Jack Daniels.\n The new coaches came about almost a decade ago and talked of mechanics.  They are ridiculed to this day yet their ideas press on.  Pose, Chi, Evolution methods were doing minimalist footwear before Born to Run came out.  Now, I am seeing some of those mechanics ideas becoming mainstream which is wonderful.  Long ago, the Pose Method forums would go on about the physics and mechanics of running efficiently ad nauseam.  Now the technology is allowing us to analyze what we once speculated.  This is could be a book to these methods of teaching.\n Jack Daniels told people to run a race then train against that race time.  He collected enough data to come up with a heuristic.  I didn\u2019t read any sort detailed running mechanics in his famous book.  Even today, people like Pete McGill say these running methods are fads in his new book.  Running form is self-selected, he states.  I say wonderful and these old fuddy-duddies can stick to their old ways.  That means it will be easier to beat their products :)\n ", 
+        "time": "\n\t\t\tJanuary 31, 2015 at 1:43 am"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "I'm not entirely sure why one would say it's a pedometer.  A pedometer tracks steps, that's it.  Over the last few years that's expanded to tracking distance, perhaps even stride length, but that's quite different than this.  This is mapping your movement in what is effectively a 3D world.  I'll try and get the OK to show some of the 3D stride mechanics images they sent me capturing what is shown every footstep taken.  Interesting stuff.\n The reason HR isn't always a good proxy is the same reason it's not within cycling: HR is very much subject to a number of factors - most notably fatigue.  Now one can debate the merits of racing and training trying to account for fatigue - but it doesn't change the fundamentals that HR is impacted by fatigue (or sickness, etc...).  For example, oftentimes after a redeye flight if I go and do a long run immediately I'll have astounding pace to HR ratios - with my HR typically 5-7bpm lower than normal for that pace/terrain.  The same is often true when an athlete is exhausted.\n Now - there's plenty of valid debate to happen down the road in terms of how power can be applied in running.  Whether or not it's accurate in X, Y, and Z conditions.  Or against A, B, and C people.  But, it's seemingly silly (or premature) to write off a technology simply because one doesn't understand it.  If that was the case, then we wouldn't have a lot of technologies we see today in sports technology.\n ", 
+        "time": "\n\t\t\tFebruary 1, 2015 at 1:49 pm"
+    }, 
+    {
+        "author": "Ze", 
+        "text": "VO2 measures the aerobic cost of the activity. It doesn't catch the anaerobic component.\n If you start sprinting, your VO2 values won't reach steady state for ~ few minutes. You'll totally miss the hard work that started almost instantaneously when you started sprinting.\n Secondly, VO2 measures the human energy cost, but not the gross mechanical demand. Ideally this is what a power metric should capture. Then, you should be using both as a better assessment of running economy. \n That being said, I think this device can do some fancy stuff, but is inherently limited in that it is accelerometer-based and thus just won't be able to extract causal power-generating metrics.\n ", 
+        "time": "\n\t\t\tFebruary 8, 2015 at 11:32 am"
+    }, 
+    {
+        "author": "Keith", 
+        "text": "Ray:\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 6:05 pm"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "The key difference is that they're measuring movement on the body.  In the case of your bike, that movement would have to be measured at the feet, and since in that case you have a platform between you and the ground (the bike), you can't make the same assumptions about your relationship to the ground.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 6:09 pm"
+    }, 
+    {
+        "author": "Ioannis", 
+        "text": "since it tracks movement dont you think that garmin is half way there with running dynamics?\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 6:26 pm"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "In my mind, what Garmin has done is 'interesting', but not terribly useful.  I've yet (almost 18 months later) to see any actual relevant way to apply GCT or VO metrics to improve training or racing.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 7:31 pm"
+    }, 
+    {
+        "author": "jbenjamint", 
+        "text": "Regarding accuracy - you could find a long hill with a gradient over say 15 percent and 500m vertical climb. Use this power metre and also calculate power from first principles. That would show whether this is truly accurate power.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 7:16 pm"
+    }, 
+    {
+        "author": "azan", 
+        "text": "Did you try and correlate the power measurements with what you would get at comparable \"effort\" on a bike with PM?\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 7:20 pm"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "It's tricky.  In some ways I found it compared well, but in others less so. In general, most people have different HR zones for running and riding.  I'm no different.  It tends to be much harder (at least for me) to put out a higher HR while riding than running.\n To that end however, the perceived efforts seemed to be in the ballpark.  So those 250w sections sorta felt a bit like what 250w might be on a bike.  Not a perfect alignment, and also a bit skewed by just the reality of CES (fatigue/tons of walking/etc..).\n For me personally, I'd really like to be able to just have a unit for a few months and start collecting data and getting a bit better feel of the system.  As other shave noted, it's a bit hard to develop complex thoughts about it on just a few short runs.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 7:29 pm"
+    }, 
+    {
+        "author": "Chris O'Brien", 
+        "text": "As in cycling meters... One of the things I'm interested in is the balance between legs... seeing as this goes on the shorts, it seems that there is no capability to see if Ol'Righty is putting out too much power and Lefty is getting a free ride...\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 8:29 pm"
+    }, 
+    {
+        "author": "Aaron", 
+        "text": "Interesting point. I'm trying to visualize what unequal power output would look like in a runner, since the legs are connected to the ground and not an intermediate power train. If power on one side is consistently higher, the runner would (frustratingly) run in circles, no?? Obviously ridiculous!! :) Instead would you expect some unequal wobbling stride/hobble/limp? Which should be reflected in a periodic ground contact time and/or vertical oscillation. Assuming we could get those sampled at a per stride frequency.\n An extreme case - hop around on one leg. Do we need to measure power to detect this, or can we do it equivalently via body movement.\n ", 
+        "time": "\n\t\t\tFebruary 2, 2015 at 1:48 pm"
+    }, 
+    {
+        "author": "michael gross", 
+        "text": "Wow!  A very interesting review for sure.  The question will be how to utilize the data as runners are not used to this type of analysis..\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 8:32 pm"
+    }, 
+    {
+        "author": "Jason", 
+        "text": "Would it be possible for Garmin to update the current watches on the market to have a power option while set to running?\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 8:32 pm"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "Yup, quite easily.\n ", 
+        "time": "\n\t\t\tJanuary 31, 2015 at 6:29 am"
+    }, 
+    {
+        "author": "michael gross", 
+        "text": "A very interesting review for sure.  The question will be how to utilize the data as runners are not used to this type of analysis.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 8:33 pm"
+    }, 
+    {
+        "author": "panos", 
+        "text": "1. you do a test to find your hr threshold and at the same time measure power.\n Of course if you train on flat surfaces this gadget is useless because pace/speed are more useful in that situation\n ", 
+        "time": "\n\t\t\tJanuary 31, 2015 at 1:54 am"
+    }, 
+    {
+        "author": "Troy", 
+        "text": "Did you do any testing against wind resistance on a flat track. I could see how they could calibrate a model indoors on a treadmill to seem consistent for given slopes/gaits, but a good test would be say to run both directions on a windy day on a flat track and compare heart rate and perceived effort against the power numbers it puts out for both directions.\n ", 
+        "time": "\n\t\t\tJanuary 30, 2015 at 9:39 pm"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "Down the road, once I have a unit to use beyond just the few hours on the track, no doubt doing wind/mud/hill/snow/weight/human/etc... testing will be part of that.\n ", 
+        "time": "\n\t\t\tFebruary 1, 2015 at 1:50 pm"
+    }, 
+    {
+        "author": "panos", 
+        "text": "I don't think there is much more than basic physics.\n Suunto could build an app to show running power and there are one or two allready created by users.\n I have also created an app to measure power using basic physics formulas and i will test it next week.\n ", 
+        "time": "\n\t\t\tJanuary 31, 2015 at 1:50 am"
+    }, 
+    {
+        "author": "Laurent S", 
+        "text": "Hello\n Could you try to upload the data (coming from the Garmin) in Strava? and try both ride and run mode?\n Thank you :)\n ", 
+        "time": "\n\t\t\tJanuary 31, 2015 at 6:07 am"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "No luck on Strava in run mode (power doesn't show up), seems to work in cycling mode however.\n ", 
+        "time": "\n\t\t\tJanuary 31, 2015 at 6:24 am"
+    }, 
+    {
+        "author": "Oskar", 
+        "text": "You can actually change from speed to pace easily on the 910xt in the menu. Back on Garmin Connect you can then just change the workout to running instead of biking (or whatever it's called in English). To get an accurate current pace based on cadens while having it in bike is another thing, guess it just won't work.\n Do you think Garmin will update the 910xt to be able to show power during a run or has Garmin forgotten the 910xt users by now?\n ", 
+        "time": "\n\t\t\tJanuary 31, 2015 at 7:10 am"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "I would not expect an update for the FR910XT (3+ years old), at this point they've released the FR920XT, and new features would likely be focused there.\n ", 
+        "time": "\n\t\t\tJanuary 31, 2015 at 9:12 am"
+    }, 
+    {
+        "author": "GS", 
+        "text": "I like the idea! I'd enjoy having an estimate of running power on a flat smooth asphalt road in running shoes, and compare that to a barefoot dune/beach run with hills, mud and sand. The more metrics, numbers, spreadsheets and statistics, the better. \n And I'd certainly try out what it would register for footbiking. It may not be designed for that, but it would allow display of a realtime figure, and allow for a quick comparison between sessions (now it is something I can only compute out of HR+speed+foot pod data afterwards).\n No bike power profile on my Fenix 1.. but I hope that lots of folks sell their Fenix 2 when the Fenix 3 becomes avaliable..  ;-)\n ", 
+        "time": "\n\t\t\tJanuary 31, 2015 at 8:40 am"
+    }, 
+    {
+        "author": "Sebspi", 
+        "text": "Can this be used in other sports like skimo or cross country skiing ?\n ", 
+        "time": "\n\t\t\tJanuary 31, 2015 at 11:42 am"
+    }, 
+    {
+        "author": "Paul S", 
+        "text": "Almost certainly not.  The primary force opposing the motion of a skier is the friction of the skis on the snow.  That's pretty variable, depending on waxless vs. waxable, how well you've waxed, how deep the snow is, whether you're breaking trail or not, etc.  There's not likely to be a model of that (if one could even be made) in the device.\n ", 
+        "time": "\n\t\t\tJanuary 31, 2015 at 7:52 pm"
+    }, 
+    {
+        "author": "Sebspi", 
+        "text": "Thanks: that's what I guessed... I did not read the whole post to undestand howcome it can generate an actual wattage, just being stick on your back, even just for running...\n ", 
+        "time": "\n\t\t\tFebruary 1, 2015 at 12:13 pm"
+    }, 
+    {
+        "author": "andrew", 
+        "text": "For someone who does a significant amount of hill running wearing a weight vest. I'd like to see if there is any use for this product to see how much power is going out at different loadings, grades, and paces.\n ", 
+        "time": "\n\t\t\tJanuary 31, 2015 at 11:46 am"
+    }, 
+    {
+        "author": "andrew p", 
+        "text": "For someone who does a significant amount of hill running wearing a weight vest. I'd like to see if there is any use for this product to see how much power is going out at different loadings, grades, and paces.\n ", 
+        "time": "\n\t\t\tJanuary 31, 2015 at 11:48 am"
+    }, 
+    {
+        "author": "Long Run Nick", 
+        "text": "I wish I would have paid more attention in my high school physics class 50+ years ago. Love the discussion. Who would've thought something as simple as running( something most of us did before we actually walked) had so many facets? I am sure the Kenyans use all this stuff, or do they?\n ", 
+        "time": "\n\t\t\tJanuary 31, 2015 at 2:12 pm"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "\"I am sure the Kenyans use all this stuff, or do they?\"\n (Insert comment here about using drugs instead...)\n ", 
+        "time": "\n\t\t\tFebruary 1, 2015 at 7:49 am"
+    }, 
+    {
+        "author": "Christian K\u00f6hler", 
+        "text": "I still ask myself: What does Watt really mean when running?\n Yes, it is a very meaningful number in the bike. Unless there are extreme conditions (wheel looses traction on an icy road) or your bike is in very bad condition the watts you push onto the pedals and the watts that push you forward are nearly identical. A road bike in decent condition has an efficiency of some 98 or 99%. \n This is not as simple when running. Efficiency (how many percent of the watts you push into your feet do actually push you forward?) can be very different depending on technique and other factors. When running in place, effiencency is actually zero. What does the unit show in that situation? Does it show the 250W that make you tired or does it show zero because you are not going anywhere? \n Of yourse we are not running in place during a race, but I don't think running efficency should be assumed to be constant. Towards the end of a long run (marathon) it will be much worse for most of us. \n Christian\n ", 
+        "time": "\n\t\t\tJanuary 31, 2015 at 3:43 pm"
+    }, 
+    {
+        "author": "Jamie (Stryd)", 
+        "text": "Running form has direct impact on running efficiency. When we run, we push our body both upward and forward. To improve running efficiency, it is wise to reduce vertical bob to minimize the upward effort. Meanwhile, try to avoid overstriding. Otherwise, more forward effort is needed to compensate for the braking force. Towards the end of a long run, we are tired and our running form change, so does our running efficiency. Stryd is able to measure these effects and provide feedback to runners to improve running form hence efficiency.\n When we run on treadmill, our body moves forward relative to the treadmill belt. The efficiency definition is the same as running outdoors. On the other hand, we found that running form and therefore power generation varies between treadmill and outdoors. It is kind of neat that Stryd is able to see the impact of training outdoors vs. indoors.\n ", 
+        "time": "\n\t\t\tJanuary 31, 2015 at 11:36 pm"
+    }, 
+    {
+        "author": "Ze", 
+        "text": "Hi Jamie,\n \"To improve running efficiency, it is wise to reduce vertical bob to minimize the upward effort.\"\n This if false. Respectfully, this comment indicates Stryd does not fully understand biomechanics.\n Sincerely, a PhD in biomechanics.\n ", 
+        "time": "\n\t\t\tFebruary 8, 2015 at 11:35 am"
+    }, 
+    {
+        "author": "Bachoo", 
+        "text": "Perhaps you could expand on this Ze?    \n Sincerely, a PhD in school of life\n ", 
+        "time": "\n\t\t\tMarch 4, 2015 at 11:52 pm"
+    }, 
+    {
+        "author": "Paul S", 
+        "text": "I'm not Ze, but my PhD is in physics, so I think I can guess the answer.  We (and by \"we\" I mean people who run regularly, not me) probably run pretty much as efficiently as possible already, with improvements possible only at the margins.  Hominids have been running for a long time, and if it were possible to be more efficient moving ourselves, we'd already have found the technique and used it.  If you deliberately try to decrease the vertical bob, because of the way legs/muscles work mechanically you probably decrease the efficiency and increase the wasted energy.  After all, whenever we can we do things to make self powered movement more efficient (skis, skates, paved roads, bicycles), and this would be no different.   But I'd be interested in what Ze has to say as well if he's still around.\n ", 
+        "time": "\n\t\t\tMarch 5, 2015 at 9:31 am"
+    }, 
+    {
+        "author": "Correcaminos", 
+        "text": "Reportedly, Mo Farah had to work on reducing his bouncy stride, to develop a more efficient stride for running marathons. He may not have won one, but the improvements have carried over his return to track, to impressive results. You can easily see the changes by comparing his form before and after.\n Movement not only in sports but say, while playing an instrument, can be fine tuned for efficiency for a long time before we can say  \"we probably run as efficiently as possible already\". \n I think the Stryd can be an exciting development in this respect.\n ", 
+        "time": "\n\t\t\tMarch 18, 2015 at 10:35 am"
+    }, 
+    {
+        "author": "Ze", 
+        "text": "Bachoo,\n Paul S gave a pretty good response. \n I speak in general, but it is based on specific knowledge of how the body is oriented when interacting with external objects. \n One specific example - wheelchair propulsion. Just like running, one could if you want to improve efficiency when pushing a wheelchair, you should just push so that the force is tangential to the wheel rim. But this does not consider the biomechanics of the upper body - a tangential wheel rim force creates a large moment arm about the shoulder and requires more muscular effort than other force directions.\n Point being, individual biomechanics matter. And before you attempt to change them, you really need to understand what the heck is going on. Like, if I just try to reduce bounce, I'll probably become less efficient. But what if my dorsiflexion ROM increased 10 degrees, then maybe...\n ", 
+        "time": "\n\t\t\tMarch 24, 2015 at 1:53 pm"
+    }, 
+    {
+        "author": "ekutter", 
+        "text": "I suspect this will be kind of like Garmin's running dynamics.  It is a piece of information, probably interesting, but is it useful?  Maybe combining multiple pieces of information like this and the running dynamics will help answer Christian Kohler's questions.  Garmin's HRM Run could probably be adapted to provide most, if not all, what this provides.  I would expect it to take awhile for the science to make real use of the data.  I also would think some kind of direct force measurement (like in the shoe sole) would be needed to make full use of these numbers.\n ", 
+        "time": "\n\t\t\tJanuary 31, 2015 at 11:40 pm"
+    }, 
+    {
+        "author": "Ben", 
+        "text": "You write, \"Where the much greater value is on courses with more terrain, or with substantial wind.  For these power (just like on the bike) can be incredibly beneficial...\"  \n Have you confirmed this with the company?  I am very skeptical.  How can they know that there is a headwind, say, if you run the same way (so the pod has the same movements)?  I don't think they can.  \n An easy test would be to run back and forth on a straight stretch on a windy day.  Keeping the same pace, does the power go up/down when you are running into/with the wind?  \n I am also a bit skeptical (although less so) of the treadmill test.  I am curious if it gives the same power levels for running flat at the same pace on and off the treadmill.  And ditto for running uphill on and off the treadmill.  I think it would be difficult for them to make these power levels match.  The issue of consistency on/off the treadmill is not really very important to me---I only want consistency off the treadmill.  However, if the power levels on/off the treadmill are inconsistent, then their testing procedures are flawed, so there could be other problems as well.  \n Finally, I am not as optimistic as you about Garmin and Strava updating to incorporate this information.  It's a chicken-and-egg situation.  They aren't going to update quickly if few people use these units, but few will buy these units without their support.  Maybe Stryd can make a deal to get this going.\n ", 
+        "time": "\n\t\t\tFebruary 1, 2015 at 12:26 am"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "Yes I've confirmed it with the company. After publishing they also validated I didn't misstate anything in the post.\n No doubt, I'll do lots of testing once it's available - and this is just a small preview of where they stand pre-release.\n As for Garmin & Strava incorporating it, I don't see any issues there. Devices that support Connect IQ can already incorporate this with the release of apps (by 3rd parties).  So that's taken care of.  And Strava supports it within the cycling profile, so it's really just a case of enabling that metric to be shown on the running profile (since it's already recorded).\n ", 
+        "time": "\n\t\t\tFebruary 1, 2015 at 7:42 am"
+    }, 
+    {
+        "author": "Eric", 
+        "text": "I share Ben's concerns. A pod at the back of your running shorts can't sense wind so at best they'll have to try to separate a headwind from running at an easier pace by changes in leg speed or something.\n The concept they're using can and has been done in cycling. The reason the names of these companies don't spring to mind is that they're long gone and they were never taken seriously when they were here.\n Ray, you're spot-on when you say power is coming for running (and other sports) I'm just not convinced this is it. I'm looking forward to your longer-term testing!\n ", 
+        "time": "\n\t\t\tFebruary 2, 2015 at 2:51 am"
+    }, 
+    {
+        "author": "Thomas", 
+        "text": "I'm also very much into power/watt training for running (I have a powermeter on my bike). However where it becomes a little uncertain in my perspective, is that a powermeter on a bike, is a measured effort. In this Stryde sensor/pod, the only way I can see it's done, is a calculated effort. It may be good enough/precise (threadmill test shows good signs). However I still think we need to see what the masses think about it. Does it work in all the different circumstances, wind, hills,running form etc.\n ", 
+        "time": "\n\t\t\tFebruary 1, 2015 at 9:27 am"
+    }, 
+    {
+        "author": "Paul S", 
+        "text": "OK, I realize now one of the things that's been bothering me about this.  \"where power follows the hill profile almost perfectly (just like it would when cycling)\".  No, it wouldn't.  On a bicycle, you crest a hill, and (assuming a hill worthy of the name) your power would drop to zero immediately after cresting and beginning the descent.  In no way would it follow the contour of the terrain.  Runners aren't cyclists, and you have to keep your feet moving underneath you and control your descent, but I'd bet money the same thing should happen, the power output should immediately drop to low levels as you headed downward and gravity (rather than you) provides the energy needed to overcome whatever is resisting you.\n Incidentally, the fact that power goes up while climbing is a psychological  reaction, not a physical necessity.  Physics says that you need a certain amount of energy to raise your body vertically a given distance, but doesn't say how fast you have to generate it (power).  If you maintain a constant power, you'd still make it to the top, just slower (on a bike you'd have to stay upright, though).  We work harder on climbs because we want to get it over with and we don't want to go that slow, not because we need to.\n ", 
+        "time": "\n\t\t\tFebruary 1, 2015 at 1:52 pm"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "Yeah, I need to tweak my wording a little bit there to make it more clear - but yes, it would 'level out' as the hill levels out.  If you look at the first hill you can kinda see that.  I took that one the long ways and it shows up.  Obviously, it's just too short to make it super obvious in the graphs.\n (Funny, on my ride today I rode up the longest hill in Paris - a touch under 2 miles long, but rather painful (\n ", 
+        "time": "\n\t\t\tFebruary 1, 2015 at 1:56 pm"
+    }, 
+    {
+        "author": "Gabriel", 
+        "text": "No L/R measurements!!??\n ", 
+        "time": "\n\t\t\tFebruary 1, 2015 at 5:43 pm"
+    }, 
+    {
+        "author": "mucher", 
+        "text": "Just wondering if - for the sake of legacy support - they couldn't make the Stryd register as a foot pod/cadence sensor - not sure if there's an upper limit on cadence, but I think it would be in the ballpark of max power and it's already supported on all the major platforms.\n ", 
+        "time": "\n\t\t\tFebruary 2, 2015 at 3:24 am"
+    }, 
+    {
+        "author": "David N\u00e4svik", 
+        "text": "Sorry just had to ask. Can you do static load test with it ;)\n ", 
+        "time": "\n\t\t\tFebruary 2, 2015 at 4:23 am"
+    }, 
+    {
+        "author": "Till", 
+        "text": "Forgive my skepticism, but I fail to see what this device can do that would not be achievable with a GPS, heart rate sensor and accelerometer, all built in to a watch, and some clever algorithms that take into account parameters such as maximal heart rate, body weight, etc. The only advantage I see here would be a measurement of acceleration of the centre of masss, independent of relative arm movement, but if that cannot already be accounted for, a second accelerometer (such as in a foot pod, or indeed one clipped to the shorts should do the job). Is this all there is to it?\n ", 
+        "time": "\n\t\t\tFebruary 2, 2015 at 8:50 am"
+    }, 
+    {
+        "author": "Fenix", 
+        "text": "Does such a thing exist though ?  And if it did - wouldn't it be far more expensive than the cost we are talking about here.\n ", 
+        "time": "\n\t\t\tFebruary 12, 2015 at 7:44 am"
+    }, 
+    {
+        "author": "Matt", 
+        "text": "Hey Ray and Jamie from Stryd,\n ", 
+        "time": "\n\t\t\tFebruary 2, 2015 at 1:14 pm"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "Pretty unlikely on the FR620 unfortunately.  Stryd could technically broadcast power on another channel that the 620 understands, like HR or cadence.  But HR typically has a filter cap in the 250bpm range, and I don't know if cadence has something similar.\n ", 
+        "time": "\n\t\t\tFebruary 2, 2015 at 1:16 pm"
+    }, 
+    {
+        "author": "Aaron", 
+        "text": "For storage: Cadence and Heartrate values are represented in FIT files as 1 byte. The protocol allows arbitrary definition of data value size within the file. So.... technically you could record samples > 255 into the records called \"heartrate\" or \"cadence\", but I have to think there are thousands of software apps out there and probably garmin firmware hardcoded with assumptions these wont exceed 255. I don't know about the broadcast protocol limits.\n ", 
+        "time": "\n\t\t\tFebruary 2, 2015 at 1:36 pm"
+    }, 
+    {
+        "author": "John Friesen", 
+        "text": "What about the Fenix 2?  It obviously supports power.\n ", 
+        "time": "\n\t\t\tFebruary 3, 2015 at 7:51 pm"
+    }, 
+    {
+        "author": "Brian", 
+        "text": "I would buy this upon release if I knew it would work with my Garmin Fenix (or 405 or FR60).\n ", 
+        "time": "\n\t\t\tFebruary 5, 2015 at 9:00 am"
+    }, 
+    {
+        "author": "James Paul", 
+        "text": "As an ex long/triple jumper I just wonder whether the metrics could actually be used to estimate the power generated on the run up and also take off? To me it looks as though it could be a very handy in all sorts of athletic events. I'm sure with a bit of work on the software side it could be able to monitor angles of take off, track forward rotation etc. it would be great if the developers allow the device have an open platform in which others can create apps.\n ", 
+        "time": "\n\t\t\tFebruary 8, 2015 at 5:15 am"
+    }, 
+    {
+        "author": "amadeus303", 
+        "text": "Ray - can you clarify... are there already ConnectIQ apps that allow for Stryd to be used with a running profile?\n If not, could one create a custom profile to make it work?\n ", 
+        "time": "\n\t\t\tFebruary 9, 2015 at 5:29 pm"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "Within the Connect IQ world, there are basically four types of 'things':\n Apps\n To date, only Watch Faces and Data Fields have been released.  With Apps and Widgets forthcoming shortly.  That's really where you'd expect to see the Stryd functionality enabled.\n That said, I will note that the FR920XT does actually connect to a power meter in the running mode.  It just doesn't record that data at this time.  I know this mostly because the KICKR broadcasts power 24x7, and when in the proximity of the treadmill where I'm doing my runs, it picks it up.  But nothing is ever logged from the KICKR (it would at least have logged a zero-power value).\n ", 
+        "time": "\n\t\t\tFebruary 9, 2015 at 6:06 pm"
+    }, 
+    {
+        "author": "BoscoK", 
+        "text": "This will be even more handy if they can get it to measure power from both legs independently.\n ", 
+        "time": "\n\t\t\tFebruary 10, 2015 at 1:40 pm"
+    }, 
+    {
+        "author": "Steve Sirois", 
+        "text": "\"As I noted to them though, most runners that are running at a level where they\u2019d be interested in power meter data are probably more of the watch (or nothing) type.  So while I appreciate the app, it\u2019s just not something I\u2019d typically use myself.\"\n ...except for the cyclists who train using TrainerRoad where most of them use a display like a monitor or phone/tablet to see when they need to change their power output.  Until someone comes out with a Google Glass type display for sunglasses, having an audible note to increase your power while running should be beneficial instead of having to look down at your watch to see if you're hitting the right power numbers.\n Thanks for the nice sneak peek at a promising new device that might have potential at changing the running world!\n ", 
+        "time": "\n\t\t\tFebruary 10, 2015 at 3:11 pm"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "Well yeah, that's why I said runners, not cyclists. ;)\n ", 
+        "time": "\n\t\t\tFebruary 10, 2015 at 5:37 pm"
+    }, 
+    {
+        "author": "Gary Gellin", 
+        "text": "Someone sent me a link to the \"RPM^2\" shoe insole power measurement device.  It's hard to tell exactly what it  does or how it works from their web site, but it seems to me that it could be a better approach to measuring power on varied terrain and conditions.  Ray posted to a comment thread last August that he is familiar with it but hasn't tested it.  Any update???\n ", 
+        "time": "\n\t\t\tFebruary 18, 2015 at 5:04 pm"
+    }, 
+    {
+        "author": "sebspi", 
+        "text": "using a FR310XT, it would display the power values in cycling mode, is that right?\n ", 
+        "time": "\n\t\t\tFebruary 23, 2015 at 4:32 pm"
+    }, 
+    {
+        "author": "DC Rainmaker", 
+        "text": "Yes, correct.\n ", 
+        "time": "\n\t\t\tFebruary 23, 2015 at 4:33 pm"
+    }, 
+    {
+        "author": "Jon Beverley", 
+        "text": "On sale now! \n ", 
+        "time": "\n\t\t\tMarch 3, 2015 at 7:36 am"
+    }, 
+    {
+        "author": "Jon Beverley", 
+        "text": "They have hit the $50,000 target already in three hours!\n ", 
+        "time": "\n\t\t\tMarch 3, 2015 at 10:44 am"
+    }
+]
