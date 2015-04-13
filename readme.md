@@ -2,6 +2,9 @@
 
 KeyFinder downloads the comment section on http://www.dcrainmaker.com/2015/01/stryd­first­running.html and allows you to filter the comments based on keyword.
 
+/script/update_comments.py pulls in an updated version of the data.
+The data lives in data.json.
+
 Keywords should be entered in a comma seperated list. (i.e. butter,bread)
 
 KeyFinder can be run on your on Google App Engine instance!
