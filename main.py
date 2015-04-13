@@ -19,7 +19,8 @@ class Search(Base):
 		# Create a regex that matches if any of the terms are present. Each term must be surronded by non letter characters.
 		pattern = '(\W('
 		for term in terms:
-			if term != '':
+			# Ignore empty terms and terms longer than 38 (longest term is 38)
+			if term != '' and len(term) < 39:
 				pattern += re.escape(term)
 				pattern += '|'
 		pattern = pattern[:-1]

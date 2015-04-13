@@ -46,6 +46,8 @@
 		
 		var hr = document.createElement('hr');
 		var query_time = document.createElement('p');
+		var empty = document.createElement('p');
+		empty.textContent = 'No results for your terms.';
 
 		// Loads data into display structure
 		var display_comments = function (data) {
@@ -56,14 +58,18 @@
 			time = data.time * 1000
 			query_time.textContent = 'Query in ' + time + ' ms';
 			output.appendChild(query_time);
-			for (i = 0; i < data.comments.length; i++) {
-				item = data.comments[i];
-				console.log(item)
-				media.heading.textContent = item.author + ' says:';
-				media.p.textContent = item.text;
-				output.appendChild(media.holder.cloneNode(true));
-				output.appendChild(hr.cloneNode(true));
-			};
+			if (data.comments.length > 0) {
+				for (i = 0; i < data.comments.length; i++) {
+					item = data.comments[i];
+					console.log(item)
+					media.heading.textContent = item.author + ' says:';
+					media.p.textContent = item.text;
+					output.appendChild(media.holder.cloneNode(true));
+					output.appendChild(hr.cloneNode(true));
+				};
+			} else {
+				output.appendChild(empty);
+			}
 		};
 
 		// Handles AJAX
