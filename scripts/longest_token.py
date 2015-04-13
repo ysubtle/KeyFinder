@@ -5,14 +5,15 @@ def longest_token():
 	raw_data = open('../data.json')
 	data = json.load(raw_data)
 
-	longest_token = ''
-	length = 0
+	longest_tokens = []
+	lengths = []
 	for d in data:
 		for t in d['text'].split(' '):
-			if len(t) > length:
-				longest_token = t
-				length = len(t)
+			if len(t) > 15:
+				longest_tokens.append(t)
+				lengths.append(len(t))
 
-	return "Longest token is: " + longest_token + " at " + str(length)
+	print(longest_tokens)
+	print(lengths)
 
-print longest_token()
+longest_token()
