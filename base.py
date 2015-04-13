@@ -1,7 +1,8 @@
 import webapp2
+import jinja2
 
 env = jinja2.Environment(
-    loader=jinja2.PackageLoader('app', 'templates'),
+    loader=jinja2.PackageLoader('templates', ''),
     trim_blocks=True
 )
 

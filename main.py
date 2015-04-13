@@ -1,6 +1,12 @@
 import webapp2
-import base
+from base import Base
 
-class Index(webapp2.RequestHander):
+class Index(Base):
 	def get(self):
-		self.render('home.html')
+		self.render('index.html')
+
+app = webapp2.WSGIApplication([
+	('/', Index)
+],
+	debug=True
+)
