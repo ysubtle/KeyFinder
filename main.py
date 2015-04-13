@@ -29,6 +29,8 @@ class Search(Base):
 		raw_data = open('data.json')
 		data = json.load(raw_data)
 
+		re_prog = re.compile(pattern, re.I)
+
 		# Creates result dictionary
 		results = {
 			'comments': [],
@@ -40,12 +42,8 @@ class Search(Base):
 
 		# Looks at each comment
 		for i in data:
-			matches = False
-			# If regex match, flag for match
-			if re.search(pattern, i['text'], re.I):
-				matches = True
-			# Appends to result list
-			if matches == True:
+			# Appends to result list if regex match
+			if re.search(re_prog, i['text']):
 				results['comments'].append(i)
 
 		# Stop search timer
